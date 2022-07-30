@@ -5,14 +5,14 @@
 <h3> 👨 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Ekohe and coding stuffs.
+- 🎓 &nbsp; Engineering at Ekohe and coding stuffs.
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Ruby | Python | NodeJS | PostgreSQL | Rails | Flask | AWS | Docker🐳
+- 💻 &nbsp; Ruby | Python | NodeJS | Java | PostgreSQL | Rails | Flask | AWS | Docker 🐳
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
 <!--
