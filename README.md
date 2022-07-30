@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Encore</h2>
+### <h2>Hi there Folks 👋 I am Encore</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -30,32 +30,30 @@
 
 <hr>
 
-
-<br/><br/>
+<br/>
 
 [![Encore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=encoreshao&show_icons=true)](https://github.com/encoreshao)
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-<br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encoreshao&show_icons=true)
 
-<br><br>
-
+<br>
 
 <hr>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect With Me </h3>
 
 <p align="center">
 
-<table>
-   <tr>
-     <td><a href="https://www.linkedin.com/in/sencoreshao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-encoreshao-blue?style=flat-square&logo=linkedin"></a></td>
-     <td><a href="https://www.instagram.com/encore.shao/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-encore.shao-black?style=flat-square&logo=instagram"></a></td>
-     <td><a href="mailto:encore.shao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-encore.shao@gmail.com-blue?style=flat-square&logo=gmail"></a></td>
-   </tr>
-</table>
+<dt>
+   <dl>
+     <a href="https://www.linkedin.com/in/sencoreshao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-encoreshao-blue?style=flat-square&logo=linkedin"></a>
+   </dl>
+   <dl>
+      <a href="https://www.instagram.com/encore.shao/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-encore.shao-black?style=flat-square&logo=instagram"></a>
+   </dl>
+   <dl>
+      <a href="mailto:encore.shao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-encore.shao@gmail.com-blue?style=flat-square&logo=gmail"></a>
+   </dl>
+</dt>
 
 </p>
