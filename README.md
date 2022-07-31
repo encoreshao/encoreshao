@@ -5,7 +5,7 @@
 ### 👨 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Engineering at Ekohe and coding stuffs.
+- 🎓 &nbsp; Lead Software Engineer at <a href='https://ekohe.com'>Ekohe</a> and coding stuffs.
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
