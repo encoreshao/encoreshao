@@ -11,18 +11,18 @@
 
 ### Tech Languages
 
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-000?&logo=InfluxDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=007396)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Firebase](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### Technologies
 
