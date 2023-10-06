@@ -1,5 +1,7 @@
 ### <h2>Hi there Folks 👋 I am Encore</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=encoreshao&label=Profile%20Views&color=0e75b6&style=flat" alt="encoreshao" /> </p>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 👨 About Me
