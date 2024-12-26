@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Engineer Manager at <a href='https://ekohe.com'>Ekohe</a> and coding stuffs.
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Systems Design, AI Researcher (RAG).
 - ✍️ &nbsp; Pursuing Web Development and Open Source as hobbies.
 
 ### Tech Languages
