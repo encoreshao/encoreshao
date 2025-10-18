@@ -7,7 +7,7 @@
 ### 👨 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Engineer Manager at <a href='https://ekohe.com'>Ekohe</a> and coding stuffs.
+- 🎓 &nbsp; Engineer Manager | AI Researcher at <a href='https://ekohe.com/encore'>Ekohe</a> and coding stuffs.
 - 🌱 &nbsp; Learning about Systems Design, AI Researcher (AI Agent, RAG, MCP).
 - ✍️ &nbsp; Pursuing Web Development and Open Source as hobbies.
 
