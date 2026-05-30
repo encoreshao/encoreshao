@@ -43,6 +43,6 @@
 
 <br/>
 
-![Encore's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=encoreshao&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=encoreshao&theme=radical)](https://github.com/encoreshao)
+|  |  |
+|------|-------------|
+| ![Encore's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=encoreshao&show_icons=true&theme=radical) | [![Encore Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=encoreshao&theme=radical)](https://github.com/encoreshao) |
